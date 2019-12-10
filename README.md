@@ -23,11 +23,11 @@ If you use the data or codes in a scientific publication, we would appreciate ci
 
 # How to use the codes and data:
 
-#### Firstly, download "edgelist.zip" and unzip it. 
+#### Firstly, download "rawdata/edgelist.zip" and unzip it to a folder.
 
-#### Then, run "ReadSQLdbAndCreateEdgelistForEveryTenYears***.ipynb" The filenames indicate the type of tests. The code will produce splited csv data for each decade. 
+#### Then, download "ReadSQLdbAndCreateEdgelistForEveryTenYears***.ipynb" to the same folder and run it. The filenames indicate the type of tests. The code will produce splited csv data for each decade in the same folder.
 
-#### At last, run "Regression_and_random_forest***.ipynb" to reach the results. 
+#### At last, download "Regression_and_random_forest***.ipynb" to the same folder and run it to reach the results. 
 
 Additional tests are provided in folder "Additional tests".
 
